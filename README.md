@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deniz</h1>
 <h3 align="center">A passionate Web Designer from Berlin</h3>
 
-- 🔭 I’m currently working on [German Trash TV Inserts](https://github.com/xmrius/German_Trash_TV_Inserts)
 
 - 🌱 I’m currently learning **JavaScript**
 
