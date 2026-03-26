@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://wwww.denizdoganlar.com](https://wwww.denizdoganlar.com)
+- 👨‍💻 All of my projects are available at [https://wwww.denizmann.com](https://wwww.denizmann.com)
 
-- 📄 Know about my experiences [https://wwww.denizdoganlar.com](https://wwww.denizdoganlar.com)
+- 📄 Know about my experiences [https://wwww.denizmann.com](https://wwww.denizmann.com)
 
 - ⚡ Fun fact **Marvel Fan**
 
